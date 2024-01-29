@@ -1,3 +1,4 @@
+# comment
 resource "aws_db_subnet_group" "example_rds_subnet_grp" {
   name       = "example_rds_subnet_grp_${var.environment}"
   subnet_ids = var.private_subnet
