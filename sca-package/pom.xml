@@ -7,8 +7,8 @@
   <dependencies>
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.3.2</version>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
