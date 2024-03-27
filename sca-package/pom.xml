@@ -6,10 +6,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
 		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.3.2</version>
-			<type>jar</type>
+			<groupId>org.apache.log4j.Logger</groupId>
+			<artifactId>log4j</artifactId>
+			<version>2.0.1/version>
+		
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
